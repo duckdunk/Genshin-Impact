@@ -1,4 +1,4 @@
-# Genshin-Impact
+# Genshin-Impact GOD Menu
 <b>1. Install the archive <br>
 <b>2. disable all antiviruses, they interfere with the work of the program<br>
 <b>3. Run and wait for the injection, then run Genshin Impact.<br>
