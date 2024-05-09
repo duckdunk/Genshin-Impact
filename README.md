@@ -4,6 +4,6 @@
 <b>3. Run and wait for the injection, then run Genshin Impact.<br>
 <br>
 Activating the Insert menu
-<h1><b>PASSWORD: MintyPassword</b></h1>
+<h1><b>ZIP PASSWORD: MintyPassword</b></h1>
 
 <a href='https://goo.su/QTQ4zd'  ><img src='https://i.imgur.com/ROpRef9.png'/> </a>
